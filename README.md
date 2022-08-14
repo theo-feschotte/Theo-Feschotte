@@ -5,7 +5,8 @@
 [theofeschotte@gmail.com](mailto:theofeschotte@gmail.com "Mon email perso") - [theo@studio22.xyz](mailto:theo@studio22.xyz "Mon email pro")  
 
 > Je m’appelle Théo, j’ai 23 ans et je suis dans le monde du web depuis maintenant cinq bonnes années.  
-J’ai suivi une formation d’une année dans l’Infographie pour maîtriser la suite Adobe Creative Cloud et améliorer ma créativité et ma capacité à la nourrir, puis deux et un an de formation dans le webdesign, mon domaine de prédilection. En parallèle j’ai appris de façon autodidacte et sous la supervision de mon mentor le code, car je voulais à terme m’orienter vers un titre de développeur front-end, voir de développeur full-stack, étant donné que je commence maintenant à me développer et à monter en expérience. Je ne demande qu’un CDI et qu’à pouvoir m’exprimer au travers de ma créativité !
+J’ai suivi une formation d’une année dans l’Infographie pour maîtriser la suite Adobe Creative Cloud et améliorer ma créativité et ma capacité à la nourrir, puis deux et un an de formation dans le webdesign, mon domaine de prédilection. En parallèle j’ai appris de façon autodidacte et sous la supervision de mon mentor le code, car je voulais à terme m’orienter vers un titre de développeur front-end, voir de développeur full-stack, étant donné que je commence maintenant à me développer et à monter en expérience.  
+Je ne demande qu’un CDI et qu’à pouvoir m’exprimer au travers de ma créativité !
 
 ### À propos de moi
 On m'appelle ***Théo le rigolo***. Oui, gros parti pris, mon mentor était septique aussi je vous le cache pas, **mais** ! Je ne voulais pas me dénaturer pour me conformer aux codes du travail juste pour faire bonne impression et juste pour plaire. J'ai l'envie de créer mon petit univers en parallèle de mon travail, ce nom décrit bien mon **personnage**, qui est tout à fait détaché de ma **personne**, bien que les deux soient tout autant sérieux et conscienceux l'un comme l'autre dans leur travail.
