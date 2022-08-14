@@ -3,7 +3,7 @@
 ## Webdesigner & développeur front-end :computer:
 :link: [Studio 22](https://studio22.xyz/ "Ma petite auto-entreprise") - :green_book: [Mon CV](https://shared-assets.adobe.com/link/9b9d7d11-fa33-4f1b-4f95-8e3b0d28f99f/ "Beau petit pdf") - [theofeschotte@gmail.com](mailto:theofeschotte@gmail.com "Mon email perso") - [theo@studio22.xyz](mailto:theo@studio22.xyz "Mon email pro")
 
-![Image d'accueil](https://repository-images.githubusercontent.com/522599083/511ca33a-a1d1-434a-9a24-94f34c1d2324)
+![Image d'accueil](https://repository-images.githubusercontent.com/522599083/6ea02772-9175-47cd-bf58-9be98b726cef)
 
 > Je m’appelle Théo, j’ai 23 ans et je suis dans le monde du web depuis maintenant cinq bonnes années.  
 J’ai suivi une formation d’une année dans l’Infographie pour maîtriser la suite Adobe Creative Cloud et améliorer ma créativité et ma capacité à la nourrir, puis deux et un an de formation dans le webdesign, mon domaine de prédilection. En parallèle j’ai appris de façon autodidacte et sous la supervision de mon mentor le code, car je voulais à terme m’orienter vers un titre de développeur front-end, voir de développeur full-stack, étant donné que je commence maintenant à me développer et à monter en expérience.  
