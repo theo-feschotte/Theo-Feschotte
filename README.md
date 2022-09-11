@@ -34,7 +34,7 @@ Je m'appelle ***Théo le rigolo***. Oui, gros parti pris, mon mentor était sept
 J'ai véritablement lancé mon auto-entreprise en janvier 2022 après avoir regroupé suffisament de compétences et de compétences de bases pour être capable de mener à bien des petits projets dans le domaine de la communication. J'exerce cette activité de temps à autre, afin de garder une créativité et une passion personnelle toujours en éveil et en activité et aussi la fierté de pouvoir signer de mon nom quelques petits projets. C'est d'ailleurs un site crée d'un thème personnalisé en HTML et PHP avec WordPress.
 
 ----
-#### Le Petit Dev, mon petit blog sur le webdesign - [Le Petit Dev] :soon:
+#### Le Petit Dev, mon petit blog sur le webdesign - [[Le Petit Dev](https://lepetitdev.blog/)] :soon:
 Comme je l'ai mentionné plus haut, j'ai envie de créer quelque chose. Un jour en cours nous devions mettre en page un magasine avec du *Lorem Ipsum*, et étant inspiré sur le coup j'ai inséré du vrai contenu, sur le webdesign car c'est ce qui me parle le plus et le résultat était unanime pour mes intervenants et formateurs. J'ai donc décidé de pousser l'idée jusqu'au bout et d'en faire une sorte de magasine-cv-portfolio en y introduisant en guise de pages publicitaires mes propres réalisations, et en guise de page de présentation un paragraphe pour me décrire ainsi qu'une double page pour mon cv. A terme l'idée est de rendre tout ça accessible en ligne également, dans un premier temps un projet destiné aux recruteurs ou personnes intéressées, puis une fois le tout ayant fait ses preuves, de lancer véritablement l'idée avec de vrais articles réguliers sur le webdesign, des tips et astuces, du partage de ressources d'icônes, de fonts...Parler des nouveautés dans le web...
 
 <!---
