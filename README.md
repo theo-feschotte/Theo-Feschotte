@@ -1,7 +1,7 @@
 # :briefcase: [Théo Feschotte](https://theo-feschotte.me/ "Mon LinkedIn")
 
 ## Webdesigner & intégrateur web :computer:
-:link: [Studio 22](https://studio22.xyz/ "Ma petite auto-entreprise") - :green_book: [Mon CV](https://shared-assets.adobe.com/link/be912878-2ac8-42c6-658c-de7d85a58b3d/ "Beau petit pdf") - [theofeschotte@gmail.com](mailto:theofeschotte@gmail.com "Mon email perso") - [theo@studio22.xyz](mailto:theo@studio22.xyz "Mon email pro")
+:link: [Studio 22](https://studio22.xyz/ "Ma petite auto-entreprise") - :green_book: [Mon CV](https://shared-assets.adobe.com/link/be912878-2ac8-42c6-658c-de7d85a58b3d/ "Beau petit pdf") - [theo@studio22.xyz](mailto:theo@studio22.xyz "Mon email pro")
 
 ![Image d'accueil](https://repository-images.githubusercontent.com/522599083/6ea02772-9175-47cd-bf58-9be98b726cef)
 
@@ -34,7 +34,7 @@ Je m'appelle ***Théo le rigolo***. Oui, gros parti pris, mon mentor était sept
 J'ai véritablement lancé mon auto-entreprise en janvier 2022 après avoir regroupé suffisament de compétences et de compétences de bases pour être capable de mener à bien des petits projets dans le domaine de la communication. J'exerce cette activité de temps à autre, afin de garder une créativité et une passion personnelle toujours en éveil et en activité et aussi la fierté de pouvoir signer de mon nom quelques petits projets. C'est d'ailleurs un site crée d'un thème personnalisé en HTML et PHP avec WordPress.
 
 ----
-#### Le Petit Dev, mon petit blog sur le webdesign - [[Le Petit Dev](https://lepetitdev.blog/)] :soon:
+#### Le Petit Dev, mon petit blog sur le webdesign - [[Le Petit Dev](https://lepetitdev.blog/)]
 Comme je l'ai mentionné plus haut, j'ai envie de créer quelque chose. Un jour en cours nous devions mettre en page un magasine avec du *Lorem Ipsum*, et étant inspiré sur le coup j'ai inséré du vrai contenu, sur le webdesign car c'est ce qui me parle le plus et le résultat était unanime pour mes intervenants et formateurs. J'ai donc décidé de pousser l'idée jusqu'au bout et d'en faire une sorte de magasine-cv-portfolio en y introduisant en guise de pages publicitaires mes propres réalisations, et en guise de page de présentation un paragraphe pour me décrire ainsi qu'une double page pour mon cv. A terme l'idée est de rendre tout ça accessible en ligne également, dans un premier temps un projet destiné aux recruteurs ou personnes intéressées, puis une fois le tout ayant fait ses preuves, de lancer véritablement l'idée avec de vrais articles réguliers sur le webdesign, des tips et astuces, du partage de ressources d'icônes, de fonts...Parler des nouveautés dans le web...
 
 <!---
