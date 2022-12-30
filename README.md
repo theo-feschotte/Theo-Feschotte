@@ -1,7 +1,7 @@
-# :briefcase: [Théo Feschotte](https://theo-feschotte.me/ "Mon LinkedIn")
+# :briefcase: [Théo Feschotte](https://linkedin.com/in/theo-feschotte "Mon LinkedIn")
 
 ## Webdesigner & intégrateur web :computer:
-:link: [Studio 22](https://studio22.xyz/ "Ma petite auto-entreprise") - :green_book: [Mon CV](https://shared-assets.adobe.com/link/be912878-2ac8-42c6-658c-de7d85a58b3d/ "Beau petit pdf") - [theo@studio22.xyz](mailto:theo@studio22.xyz "Mon email pro")
+:link: [Studio 22](https://studio22.xyz "Ma petite auto-entreprise") - :green_book: [Mon site](https://theo-feschotte.me "Mon site perso") - [theo@studio22.xyz](mailto:theo@studio22.xyz "Mon email pro")
 
 ![Image d'accueil](https://repository-images.githubusercontent.com/522599083/6ea02772-9175-47cd-bf58-9be98b726cef)
 
