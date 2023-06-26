@@ -24,7 +24,7 @@ Je ne demande qu’un CDI et qu’à pouvoir m’exprimer au travers de ma créa
 - JS
 - PHP
 - VueJS
-- WordPress (ACF, Twig, Timber)
+- WordPress (ACF, Gravity Forms, Twig, Timber)
 - Elementor / Divi
 
 ----
