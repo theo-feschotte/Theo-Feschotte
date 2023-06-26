@@ -17,15 +17,15 @@ Je ne demande qu’un CDI et qu’à pouvoir m’exprimer au travers de ma créa
 ### Liste non exhaustive de mes compétences
 - Adobe Creative Cloud
 - Infographie et webdesign
-- UI / UX
 - Responsive
+- UI / UX
 - HTML
 - CSS
+- JS
 - PHP
-- JavaScript
 - VueJS
-- WordPress
-- Elementor
+- WordPress (ACF, Twig, Timber)
+- Elementor / Divi
 
 ----
 #### Studio 22, ma petite activé secondaire - [[Studio 22](https://studio22.xyz/)]
