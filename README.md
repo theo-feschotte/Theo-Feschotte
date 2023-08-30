@@ -1,7 +1,6 @@
 # :briefcase: [Théo Feschotte](https://linkedin.com/in/theo-feschotte "Mon LinkedIn")
 
 ## Webdesigner et développeur web :computer:
-:link: [Studio 22](https://studio22.xyz "Ma petite auto-entreprise") - :green_book: [Mon site](https://theo-feschotte.me "Mon site perso") - [theo@studio22.xyz](mailto:theo@studio22.xyz "Mon email pro")
 
 ![Image d'accueil](https://repository-images.githubusercontent.com/522599083/6ea02772-9175-47cd-bf58-9be98b726cef)
 
@@ -28,12 +27,8 @@ Je ne demande qu’un CDI et qu’à pouvoir m’exprimer au travers de ma créa
 - Elementor / Divi
 
 ----
-#### Studio 22, ma petite activé secondaire - [[Studio 22](https://studio22.xyz/)]
+#### Studio 22, ma petite activé secondaire
 J'ai véritablement lancé mon auto-entreprise en janvier 2022 après avoir regroupé suffisament de compétences et de compétences de bases pour être capable de mener à bien des petits projets dans le domaine de la communication. J'exerce cette activité de temps à autre, afin de garder une créativité et une passion personnelle toujours en éveil et en activité et aussi la fierté de pouvoir signer de mon nom quelques petits projets. C'est d'ailleurs un site crée d'un thème personnalisé en HTML et PHP avec WordPress.
-
-----
-#### Le Petit Dev, mon petit blog sur le webdesign - [[Le Petit Dev](https://lepetitdev.blog/)]
-Comme je l'ai mentionné plus haut, j'ai envie de créer quelque chose. Un jour en cours nous devions mettre en page un magasine avec du *Lorem Ipsum*, et étant inspiré sur le coup j'ai inséré du vrai contenu, sur le webdesign car c'est ce qui me parle le plus et le résultat était unanime pour mes intervenants et formateurs. J'ai donc décidé de pousser l'idée jusqu'au bout et d'en faire une sorte de magasine-cv-portfolio en y introduisant en guise de pages publicitaires mes propres réalisations, et en guise de page de présentation un paragraphe pour me décrire ainsi qu'une double page pour mon cv. A terme l'idée est de rendre tout ça accessible en ligne également, dans un premier temps un projet destiné aux recruteurs ou personnes intéressées, puis une fois le tout ayant fait ses preuves, de lancer véritablement l'idée avec de vrais articles réguliers sur le webdesign, des tips et astuces, du partage de ressources d'icônes, de fonts...Parler des nouveautés dans le web...
 
 <!---
 theo-le-rigolo/theo-le-rigolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
