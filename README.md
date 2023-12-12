@@ -5,8 +5,7 @@
 ![Image d'accueil](https://repository-images.githubusercontent.com/522599083/6ea02772-9175-47cd-bf58-9be98b726cef)
 
 > Je m’appelle Théo, j’ai 24 ans et je suis dans le monde du web depuis maintenant cinq bonnes années.  
-J’ai suivi une formation d’une année dans l’Infographie pour maîtriser la suite Adobe Creative Cloud et améliorer ma créativité et ma capacité à la nourrir, puis deux et un an de formation dans le webdesign, mon domaine de prédilection. En parallèle j’ai appris de façon autodidacte et sous la supervision de mon mentor le code, car je voulais à terme m’orienter vers un titre de développeur front-end, voir de développeur full-stack, étant donné que je commence maintenant à me développer et à monter en expérience.  
-Je ne demande qu’un CDI et qu’à pouvoir m’exprimer au travers de ma créativité !
+J’ai suivi une formation d’une année dans l’Infographie pour maîtriser la suite Adobe Creative Cloud et améliorer ma créativité et ma capacité à la nourrir, puis deux et un an de formation dans le webdesign, mon domaine de prédilection. En parallèle j’ai appris de façon autodidacte et sous la supervision de mon mentor le code, car je voulais à terme m’orienter vers un titre de développeur front-end, voir de développeur full-stack, étant donné que je commence maintenant à me développer et à monter en expérience.
 
 ### Mes principaux traits de personnalités
 | Perfectionniste :star: | Déterminé :dart: | Motivé :rocket: | Autodidacte :mortar_board: | Autonome :repeat: |
